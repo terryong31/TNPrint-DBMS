@@ -1,5 +1,0 @@
-CREATE TABLE admin (
-    id VARCHAR(25) PRIMARY KEY,
-    password VARCHAR(255),
-    name VARCHAR(255)
-);
